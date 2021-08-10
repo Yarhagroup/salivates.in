@@ -1,6 +1,6 @@
 @font-face {
   font-family: Questrial-Reqular, sans-serif;
-  src: url(font/Questrial-Regular.ttf);
+  src: url(salivates.in/font/Questrial-Regular.ttf);
 }
 
 body {
@@ -76,7 +76,7 @@ text-transform: uppercase;
 /*============= OUR STORY =============*/
 @font-face {
   font-family: font-greatvibes;
-  src: url(font/GreatVibes-Regular.ttf);
+  src: url(salivates.in/font/GreatVibes-Regular.ttf);
 }
 .our-story {
 
@@ -324,7 +324,7 @@ text-transform: uppercase;
 /*--------*/
 @font-face {
   font-family: font-questrial;
-  src: url(font/Questrial-Regular.ttf);
+  src: url(salivates.in/font/Questrial-Regular.ttf);
 }
 
 body{
@@ -602,7 +602,7 @@ text-transform: uppercase;
 
 @font-face {
   font-family: font-chocolate;
-  src: url(font/Chocolate.ttf);
+  src: url(salivates.in/font/Chocolate.ttf);
 }
 
 .testimonial-head {
