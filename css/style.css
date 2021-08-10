@@ -1,6 +1,6 @@
 @font-face {
   font-family: Questrial-Reqular, sans-serif;
-  src: url(salivates.in/font/Questrial-Regular.ttf);
+  src: url(../font/Questrial-Regular.ttf);
 }
 
 body {
@@ -76,7 +76,7 @@ text-transform: uppercase;
 /*============= OUR STORY =============*/
 @font-face {
   font-family: font-greatvibes;
-  src: url(salivates.in/font/GreatVibes-Regular.ttf);
+  src: url(../font/GreatVibes-Regular.ttf);
 }
 .our-story {
 
@@ -175,8 +175,8 @@ text-transform: uppercase;
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("/img/professional.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/professional.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../img/professional.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/professional.jpg");
   background-position: 0px 0px, 50% 0%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -324,7 +324,7 @@ text-transform: uppercase;
 /*--------*/
 @font-face {
   font-family: font-questrial;
-  src: url(salivates.in/font/Questrial-Regular.ttf);
+  src: url(../font/Questrial-Regular.ttf);
 }
 
 body{
@@ -495,14 +495,14 @@ text-transform: uppercase;
   min-height: 100vh;
   background-position: 50% 50%;
   background-size: cover;
-  background-image: url(img/slide-1.jpg);
+  background-image: url(../img/slide-1.jpg);
   animation: menu-slider 15s infinite linear;
 }
 
 @keyframes menu-slider{
-  0%{ background-image: url(img/slide-2.jpg); }
-  35%{ background-image: url(img/slide-3.jpg); }
-  75%{ background-image: url(img/slide-4.jpg); }
+  0%{ background-image: url(../img/slide-2.jpg); }
+  35%{ background-image: url(../img/slide-3.jpg); }
+  75%{ background-image: url(../img/slide-4.jpg); }
 }
 
 .menu-right {
@@ -602,7 +602,7 @@ text-transform: uppercase;
 
 @font-face {
   font-family: font-chocolate;
-  src: url(salivates.in/font/Chocolate.ttf);
+  src: url(../font/Chocolate.ttf);
 }
 
 .testimonial-head {
