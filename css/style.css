@@ -897,6 +897,23 @@ text-transform: uppercase;
 
 @media screen and (max-width: 479px) {
 
+  .story-head {
+    color: #fff;
+    font-family: Questrial, sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+    font-weight: 200;
+  }
+
+  .normal-paragraph {
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 200;
+    text-align: left;
+    letter-spacing: 0px;
+    text-transform: none;
+  }
+
 
   .right-container {
     width: 100%;
@@ -948,6 +965,14 @@ text-transform: uppercase;
       font-size: 16px;
   }
   .owl-theme .owl-controls{ bottom: -12%; }
+
+  .story-head {
+    color: #fff;
+    font-family: Questrial, sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+    font-weight: 200;
+  }
 
   .vertical-section-text{
     padding: 0px 0px 0px 0px;
