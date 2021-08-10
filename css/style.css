@@ -922,6 +922,12 @@ text-transform: uppercase;
     text-transform: none;
   }
 
+  .uppercase-paragraph {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: justify;
+  }
+
 
   .right-container {
     width: 100%;
@@ -962,7 +968,6 @@ text-transform: uppercase;
     padding-left: 70px;
     font-family: Lato, sans-serif;
     font-size: 1rem;
-    
   }
 
 }
@@ -974,12 +979,34 @@ text-transform: uppercase;
   }
   .owl-theme .owl-controls{ bottom: -12%; }
 
+  .logo-navbar {
+    font-family: font-chocolate;
+    margin-top: 10%;
+    margin-left: 10%;
+    color: #ffffff;
+  }
+
   .story-head {
     color: #fff;
     font-family: Questrial, sans-serif;
     font-size: 25px;
     line-height: 40px;
     font-weight: 200;
+  }
+
+  .normal-paragraph {
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 200;
+    text-align: justify;
+    letter-spacing: 0px;
+    text-transform: none;
+  }
+
+  .uppercase-paragraph {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: justify;
   }
 
   .vertical-section-text{
