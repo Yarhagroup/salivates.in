@@ -921,6 +921,18 @@ text-transform: uppercase;
     font-weight: 200;
   }
 
+  .our-story-text {
+  
+    padding: 0px 0px 0px 4px;
+    justify-content: center;
+    align-items: center;
+    grid-column-gap: 16px ;
+    width: 80%;
+    max-width: 1400px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
   .normal-paragraph {
     font-size: 18px;
     line-height: 20px;
